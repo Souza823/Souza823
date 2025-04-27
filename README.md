@@ -45,9 +45,10 @@ Sou apaixonado por geociências, tecnologia aplicadas, Análise de Dados. 💡
 - Avaliação de Danos (CADAN) – Secretaria Nacional de Defesa Civil
 ## Artigos Publicados
 Avaliação da variação da linha de costa em praias arenosas da ilha de Fernando de Noronha, Pernambuco, Brasil, utilizando-se Veículo Aéreo não-Tripulado (VANT)
-DOI  https://doi.org/10.18817/26755122.28.1.2024.3637
-Ancient Coastlines in the Continental Shelf of the State of Ceará, Northeast Brazil: Evidence from Sediment Chemistry and Stable Isotopes
-DOI https://doi.org/10.2747/0020-6814.50.12.1141
+DOI  https://doi.org/10.18817/26755122.28.1.2024.3637 <BR/>
+
+Ancient Coastlines in the Continental Shelf of the State of Ceará, Northeast Brazil: Evidence from Sediment Chemistry and Stable Isotopes 
+DOI https://doi.org/10.2747/0020-6814.50.12.1141 <BR>
 
 
 
