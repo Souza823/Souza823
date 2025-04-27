@@ -1,7 +1,8 @@
 # Roberto Souza 👋
 ✨ Geólogo M.Sc. | Pós-Graduando em Engenharia de Minas | Entusiasta de Geotecnologias
 
-Sou apaixonado por geociências, tecnologia aplicadas, Análise de Dados. 💡
+# Interesses 
+Sou apaixonado por geociências, tecnologia aplicadas, Análise de Dados, Estatística e Probabilidade. 💡
 
 ## 🏢 Atuação Profissional
 - Geólogo com experiência em mapeamento geológico, pesquisa mineral (ouro, cobre, calcário) e aerolevantamento com drone RTK.
@@ -49,6 +50,14 @@ DOI  https://doi.org/10.18817/26755122.28.1.2024.3637 <BR/>
 
 Ancient Coastlines in the Continental Shelf of the State of Ceará, Northeast Brazil: Evidence from Sediment Chemistry and Stable Isotopes 
 DOI https://doi.org/10.2747/0020-6814.50.12.1141 <BR>
+
+Avaliação da vulnerabilidade em ambiente de praias arenosas da ilha de fernando de noronha utilizando-se aerolevantamento por vant (veículo aéreo não tripulado)
+DOI: https://doi.org/10.18817/26755122.28.1.2024.3637 <br>
+
+Características petrográficas, texturais e quimicas dos metacalcários do complexo araticum, região de batalha-al. In: iv simpósio de minerais industriais do nordeste, 2016, joão pessoa. Iv simpósio de minerais industriais do nordeste, 2016. <br>
+
+Aspectos do Complexo Araticum, Faixa de Dobramentos Sergipana, Domínio Meridional da Província Borborema, Região de Batalha-AL. In: 47º Congresso Brasileiro de Geologia, 2014, Salvador. 47º Congresso Brasileiro de Geologia, 2014. <br>
+
 
 
 
