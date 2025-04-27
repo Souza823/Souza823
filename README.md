@@ -1,5 +1,5 @@
 # Roberto Souza 👋
-✨ Geólogo M.Sc. | Pós-Graduando em Engenharia de Minas | Entusiasta de Geotecnologias
+✨ Geólogo M.Sc. | Mestre Ciências Geodésidas e Tecnologias da Geoinformação| Pós-Graduando em Engenharia de Minas 
 
 # Interesses 
 Sou apaixonado por geociências, tecnologia aplicadas, Análise de Dados, Estatística e Probabilidade. 💡
