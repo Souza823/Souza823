@@ -34,8 +34,8 @@ Sou apaixonado por geociências, tecnologia aplicadas, Análise de Dados, Estat�
 - Surfer
 - AutoCAD Civil 3D
 - Strater
-- Cursando Python Delevoper (2025)
-- Cursando Python for GIS
+- 🎯Cursando Python Delevoper (2025)
+- 🎯Cursando Python for GIS
 
 ## 🌎 Idiomas
 - Inglês Avançado
