@@ -16,12 +16,13 @@ Sou apaixonado por geociências, tecnologia aplicadas, Análise de Dados, Estat�
 - 🎓 Pós-Graduação em Engenharia de Minas – UNILEYA-RJ (Conclusão prevista 2025)
 
 ## 📍 Experiência Profissional
+
+- **Geólogo Pesquisador Nível Mestre - UNISINOS/PETROBRÁS (2022-2023)**  
+  - Modelagem geológica e tridimensional em Bacia Potiguar (RN), Chapada Diamantina (BA) e Bacia de Neuquén (Argentina).
 - **Geólogo de Exploração - Particular (2021-2022)**  
   - Mapeamento geológico, planejamento de sondagens, identificação de alvos para lavra e aerolevantamento no Arco Magmático Mara Rosa (GO/TO).
 - **Geólogo de Exploração - MIBASA (2010-2011; 2014-2015)**  
   - Mapeamento geológico e interpretação de sondagens de calcário, micaxisto e minério de ouro em Alagoas.
-- **Geólogo Pesquisador Nível Mestre - UNISINOS/PETROBRÁS (2022-2023)**  
-  - Modelagem geológica e tridimensional em Bacia Potiguar (RN), Chapada Diamantina (BA) e Bacia de Neuquén (Argentina).
 
 ## 📈 Geotecnologias (GeoSoftwares)
 - Power BI
